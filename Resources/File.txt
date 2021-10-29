@@ -1,0 +1,2 @@
+Write a program that reads a file with n number of strings separated by linebreaks.
+The program prints how many words are in the file
